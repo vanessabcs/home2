@@ -38,7 +38,7 @@ links:
 
     # Cal.com
   - Name: Cal.com
-    URL: #https://cal.com
+    URL: 
     Username: harshtrivedi
     Color: '#232323'
     Icon-Class: fa fa-calendar-check
