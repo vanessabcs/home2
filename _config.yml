@@ -39,12 +39,6 @@ links:
     # Cal.com
  
 
-     - Name: Links
-    URL: https://github.com/harsh98trivedi/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
-
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: ''
 
