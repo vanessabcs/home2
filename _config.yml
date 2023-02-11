@@ -38,13 +38,13 @@ links:
 
     # Cal.com
   - Name: Cal.com
-    URL: https://cal.com
+    URL: #https://cal.com
     Username: harshtrivedi
     Color: '#232323'
     Icon-Class: fa fa-calendar-check
 
     # CLUBHOUSE
-  - Name: Clubhouse
+  - Name: #Clubhouse
     URL: https://www.clubhouse.com
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
