@@ -37,11 +37,7 @@ links:
     Icon-Class: fab fa-twitter
 
     # Cal.com
-  - Name: Cal.com
-    URL: 
-    Username: harshtrivedi
-    Color: '#232323'
-    Icon-Class: fa fa-calendar-check
+ 
 
     # CLUBHOUSE
   - Name: #Clubhouse
