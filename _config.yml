@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Davi Santiago
+name: Vanessa Barcelos
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Mussum Ipsum, cacilds vidis litro abertis. Suco de cevadiss deixa as pessoas mais interessantis.Sapien in monti palavris qui num significa nadis i pareci latim.Cevadis im ampola pa arma uma pindureta.Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!
+tagline: Something I have not yet figured
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/davixsan.png
+Image_URL: https://github.com/vanessabcs.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random
@@ -16,14 +16,14 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: davixsan
+  - Name: DH Projects 2023
+    URL: https://vanessabcs.github.io/DH2023/
+    Username: 
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # GITHUB
-  - Name: GitHub
+  - Name: DH Projects 2022
     URL: https://vanessabcs.github.io
     Username: 
     Color: '#6e5494'
@@ -32,10 +32,16 @@ links:
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: 
+    Username: Vanessa25974839
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: teachervanessab
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
     # Cal.com
  
 
