@@ -8,7 +8,7 @@ tagline: English PhD Student at the University of Miami
 Image_URL: https://github.com/vanessabcs.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: img src="iCloud Drive/Documents/DHPracticum/img/door_medieval.jpeg"
+Cover_Image: <img src="iCloud Drive/Documents/DHPracticum/img/door_medieval.jpeg">
 
 # SOCIAL MEDIA
 links:
