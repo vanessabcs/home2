@@ -69,7 +69,7 @@ exclude:
   - Icon
 
 # Base URL
-# baseurl: /links
+# baseurl: /home
 
 # Default Markdown Engine
 markdown: kramdown
