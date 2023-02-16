@@ -2,13 +2,13 @@
 name: Vanessa Barcelos
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Something I have not yet figured
+tagline: English PhD Student at the University of Miami
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/vanessabcs.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: img src="iCloud Drive/Documents/DHPracticum/img/door_medieval.jpeg"
 
 # SOCIAL MEDIA
 links:
@@ -24,7 +24,7 @@ links:
 
     # GITHUB
   - Name: DH Projects 2022
-    URL: https://vanessabcs.github.io
+    URL: https://vanessabcs.github.io/DH2022/
     Username: 
     Color: '#6e5494'
     Icon-Class: fab fa-github
