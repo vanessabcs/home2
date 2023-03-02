@@ -44,12 +44,12 @@ links:
     Icon-Class: fab fa-instagram
     # Cal.com
     
-   # GITHUB
+   # About me Page
   - Name: About me
-    URL: https://vanessabcs.github.io/DH2023/aboutme
+    URL: https://vanessabcs.github.io/aboutme
     Username: 
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
+    Color: '#9d3e1d'
+    Icon-Class: 
  
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
