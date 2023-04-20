@@ -51,7 +51,13 @@ links:
     Color: '#9d3e1d'
     Icon-Class: 
  
-
+# Newes Scotland
+  - Name: About me
+    URL: https://vanessabcs.github.io/DH2023/aboutme/
+    Username: 
+    Color: '#9d3e1d'
+    Icon-Class: 
+    
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: ''
 
