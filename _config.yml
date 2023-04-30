@@ -15,7 +15,14 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # GITHUB
+     # About me Page
+  - Name: About me
+    URL: https://vanessabcs.github.io/DH2023/aboutme/
+    Username: 
+    Color: '#FFDD00'
+    Icon-Class: 
+    
+  # GITHUB
   - Name: Github Directory
     URL: https://github.com/vanessabcs
     Username: 
@@ -35,14 +42,7 @@ links:
     Username: 
     Color: '#9d3e1d'
     Icon-Class: 
-
-   # About me Page
-  - Name: About me
-    URL: https://vanessabcs.github.io/DH2023/aboutme/
-    Username: 
-    Color: '#9d3e1d'
-    Icon-Class: 
-    
+ 
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
