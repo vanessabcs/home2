@@ -16,47 +16,43 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # GITHUB
-  - Name: DH Projects 2023
-    URL: https://vanessabcs.github.io/DH2023/
+  - Name: Github Directory
+    URL: https://github.com/vanessabcs
     Username: 
     Color: '#6e5494'
     Icon-Class: fab fa-github
-
-    # GITHUB
-  - Name: DH Projects 2022
-    URL: https://vanessabcs.github.io/DH2022/
-    Username: 
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: Vanessa25974839
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-
-    # INSTAGRAM
+    
+        # Dreaming in Cuban
   - Name: Instagram
     URL: https://www.instagram.com
     Username: teachervanessab
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-    # Cal.com
+    Color: '#B90E0A'
+    Icon-Class: 
     
+    # Newes from Scotland
+  - Name: Newes from Scotland
+    URL: https://vanessabcs.github.io/DH2023/aboutme/
+    Username: 
+    Color: '#9d3e1d'
+    Icon-Class: 
+
    # About me Page
   - Name: About me
     URL: https://vanessabcs.github.io/DH2023/aboutme/
     Username: 
     Color: '#9d3e1d'
     Icon-Class: 
+    
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: Vanessa25974839
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+    
+
  
-# Newes Scotland
-  - Name: About me
-    URL: https://vanessabcs.github.io/DH2023/aboutme/
-    Username: 
-    Color: '#9d3e1d'
-    Icon-Class: 
+
     
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: ''
