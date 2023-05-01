@@ -19,14 +19,14 @@ links:
   - Name: Github Directory
     URL: https://github.com/vanessabcs
     Username: 
-    Color: '#6e5494'
+    Color: '#923b20'
     Icon-Class: fab fa-github
     
      # About me Page
   - Name: About me
     URL: https://vanessabcs.github.io/DH2023/aboutme/
     Username: 
-    Color: '#BD8270'
+    Color: '#923b20'
     Icon-Class: 
    
     
@@ -34,21 +34,21 @@ links:
   - Name: Dreaming in Cuban
     URL: https://storymaps.arcgis.com/stories/f82a7f09276f4dbb96b5784bfd5e479d
     Username: 
-    Color: '#BD8270'
+    Color: '#923b20'
     Icon-Class: 
     
     # Newes from Scotland
   - Name: Newes from Scotland
     URL: https://vanessabcs.github.io/DH2023/aboutme/
     Username: 
-    Color: '#BD8270'
+    Color: '#923b20'
     Icon-Class: 
  
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
     Username: Vanessa25974839
-    Color: '#BD8270'
+    Color: '#923b20'
     Icon-Class: fab fa-twitter
     
 
