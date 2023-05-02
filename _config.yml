@@ -15,20 +15,19 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+         # About me Page
+  - Name: About me
+    URL: https://vanessabcs.github.io/DH2023/aboutme/
+    Username: 
+    Color: '#923b20'
+    Icon-Class: 
+    
       # GITHUB
   - Name: Github Directory
     URL: https://github.com/vanessabcs
     Username: 
     Color: '#923b20'
     Icon-Class: fab fa-github
-    
-     # About me Page
-  - Name: About me
-    URL: https://vanessabcs.github.io/DH2023/aboutme/
-    Username: 
-    Color: '#923b20'
-    Icon-Class: 
-   
     
         # Dreaming in Cuban
   - Name: Dreaming in Cuban
